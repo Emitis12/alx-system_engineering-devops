@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p; echo ""; printenv; echo ""; typeset -f
+declare -p;  printenv; - f
